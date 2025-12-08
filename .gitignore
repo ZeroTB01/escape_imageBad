@@ -1,0 +1,15 @@
+# 忽略 Git 自己的元数据（最重要！）
+.git/
+
+# 忽略自动脚本和配置（防止把自己提交进去）
+../imageBed-auto/
+imageBed-auto/
+auto.js
+config.json
+node_modules/
+cdn.txt
+
+# 常用无用文件
+Thumbs.db
+.DS_Store
+*.tmp
