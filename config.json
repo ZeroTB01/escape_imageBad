@@ -1,7 +1,0 @@
-{
-  "watchPath": "T:/code_project/workspace/imageBad",
-  "repo": "git@github.com:ZeroTB01/escape_imageBad.git",
-  "branch": "main",
-  "cdnPrefix": "https://cdn.jsdelivr.net/gh/ZeroTB01/escape_imageBad@main/",
-  "outputFile": "cdn.txt"
-}
